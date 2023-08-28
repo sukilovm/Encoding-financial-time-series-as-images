@@ -33,6 +33,7 @@ While specific version numbers might vary, it's generally aligned with Python 3.
 Libraries: All required libraries and dependencies are installed directly within the Jupyter notebooks using pip install commands.
 These commands are included at the beginning of each notebook, ensuring all necessary packages are available for successful execution.
 </div>
+<br>
 **Setup**
 To replicate the development environment:
 
@@ -42,9 +43,6 @@ To replicate the development environment:
 
 
 ## Reproducing results
-
-
-
 
 **Thesis_Data**: Generates the raw time series data of the Constituents Dataset. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sukilovm/Encoding-financial-time-series-as-images/blob/main/Thesis_Data.ipynb)
  <br>
