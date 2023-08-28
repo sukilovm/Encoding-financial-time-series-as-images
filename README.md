@@ -35,7 +35,7 @@ These commands are included at the beginning of each notebook, ensuring all nece
 </div>
 <br>
 
-**Setup** <br>
+**Setup** <br><br>
 To replicate the development environment:
 
 1. Access Google Colab (Pro+).
