@@ -14,6 +14,7 @@ This research investigates machine learning (ML) methodologies for predicting fu
 </div>
 <br>
 <br>
+
 **Keywords:** Machine Learning – Financial time series forecasting – Time series to image encoding –Image classification – Stock price prediction
 <br>
 <p align="center">
