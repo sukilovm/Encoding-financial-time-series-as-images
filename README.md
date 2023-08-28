@@ -19,12 +19,9 @@ This research investigates machine learning (ML) methodologies for predicting fu
   <img width="698" alt="image" src="https://github.com/sukilovm/Encoding-financial-time-series-as-images/assets/74241476/b99b27b6-81b1-45fd-b82a-de3ef8a4eff0">
 </p>
 <br><br>
-<p align="center">
   
 [Access the full text here.](https://www.researchgate.net/publication/373447921_Encoding_financial_time_series_as_images_-Application_of_image_classification_to_predict_stock_price_directions_of_the_SP_500_Index)
-
-</p>
-
+<br><br>
 ## Working with the repo
 
 **Dependencies**
