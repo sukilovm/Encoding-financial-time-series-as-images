@@ -23,9 +23,20 @@ This research investigates machine learning (ML) methodologies for predicting fu
 
 ## Working with the repo
 
-**Dependencies:**
+**Dependencies**
 
-**Setup:**
+Python Version: All code in this repository was developed and tested using Python that comes with Google Colab (Pro+) as of August 2023. While specific version numbers might vary, it's generally aligned with Python 3.7 or newer.
+
+Repository Dependencies:
+All required libraries and dependencies are installed directly within the Jupyter notebooks using pip install commands. These commands are included at the beginning of each notebook, ensuring all necessary packages are available for successful execution.
+
+**Setup**
+To replicate the development environment:
+
+1. Access Google Colab (Pro+).
+2. Upload the Jupyter notebook(s) from this repository.
+3. Run the notebook. The necessary libraries will be installed automatically as the notebook progresses.
+
 
 ## Reproducing results
 
