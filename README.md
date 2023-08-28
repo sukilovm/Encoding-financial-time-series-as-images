@@ -15,7 +15,7 @@ This research investigates machine learning (ML) methodologies for predicting fu
 <br>
 <br>
 
-**Keywords:** Machine Learning – Financial time series forecasting – Time series to image encoding –Image classification – Stock price prediction
+**Keywords:** <br>Machine Learning – Financial time series forecasting – Time series to image encoding –Image classification – Stock price prediction
 <br>
 <p align="center">
   <img width="698" alt="image" src="https://github.com/sukilovm/Encoding-financial-time-series-as-images/assets/74241476/b99b27b6-81b1-45fd-b82a-de3ef8a4eff0">
