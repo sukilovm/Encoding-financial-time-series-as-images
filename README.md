@@ -8,7 +8,11 @@
 
 **2nd Examiner:** Prof. Dr. Fabian
 
-This repository contains the code implemented in the course of my master's thesis "Encoding financial time series as images – Application of image classification to predict stock price directions of the S&P 500 Index". For a more detailed explanation of the concepts and methodologies used, please refer to the thesis paper.
+<img width="698" alt="image" src="https://github.com/sukilovm/Encoding-financial-time-series-as-images/assets/74241476/b99b27b6-81b1-45fd-b82a-de3ef8a4eff0">
+
+
+
+
 
 **Thesis_Data**: Generates the raw time series data of the Constituents Dataset. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sukilovm/Encoding-financial-time-series-as-images/blob/main/Thesis_Data.ipynb)
  <br>
