@@ -20,7 +20,7 @@ This research investigates machine learning (ML) methodologies for predicting fu
 </p>
 <br>
 <p align="center">
-  <a href="https://www.researchgate.net/publication/373447921_Encoding_financial_time_series_as_images_-Application_of_image_classification_to_predict_stock_price_directions_of_the_SP_500_Index">Access the full text here.</a>
+  <a href="https://www.researchgate.net/publication/373447921_Encoding_financial_time_series_as_images_-Application_of_image_classification_to_predict_stock_price_directions_of_the_SP_500_Index">Access the full research paper here.</a>
 </p>
 <br><br>
 
