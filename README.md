@@ -45,10 +45,12 @@ To replicate the development environment:
 
 ## Reproducing results
 
-**Thesis_Data**: Generates the raw time series data of the Constituents Dataset. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sukilovm/Encoding-financial-time-series-as-images/blob/main/Thesis_Data.ipynb)
+Run the notebooks in the following order: <br>
+
+**1. Thesis_Data**: Generates the raw time series data of the Constituents Dataset. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sukilovm/Encoding-financial-time-series-as-images/blob/main/Thesis_Data.ipynb)
  <br>
-**Thesis_Images**: Encodes the raw time series of the Constituents Dataset as images. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sukilovm/Encoding-financial-time-series-as-images/blob/main/Thesis_Images.ipynb) <br>
-**Thesis_Models**: Fits models and predicts on the Constituents Dataset. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sukilovm/Encoding-financial-time-series-as-images/blob/main/Thesis_Models.ipynb)<br>
-**Thesis_Trading**: Loads models fitted on the Constituents Dataset to predict on the Index Dataset. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sukilovm/Encoding-financial-time-series-as-images/blob/main/Thesis_Trading.ipynb)
+**2. Thesis_Images**: Encodes the raw time series of the Constituents Dataset as images. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sukilovm/Encoding-financial-time-series-as-images/blob/main/Thesis_Images.ipynb) <br>
+**3. Thesis_Models**: Fits models and predicts on the Constituents Dataset. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sukilovm/Encoding-financial-time-series-as-images/blob/main/Thesis_Models.ipynb)<br>
+**4. Thesis_Trading**: Loads models fitted on the Constituents Dataset to predict on the Index Dataset. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sukilovm/Encoding-financial-time-series-as-images/blob/main/Thesis_Trading.ipynb)
 
  
