@@ -19,8 +19,15 @@ This research investigates machine learning (ML) methodologies for predicting fu
 <p align="center">
   <img width="698" alt="image" src="https://github.com/sukilovm/Encoding-financial-time-series-as-images/assets/74241476/b99b27b6-81b1-45fd-b82a-de3ef8a4eff0">
 </p>
-<br>
+<br><br>
 
+## Working with the repo
+
+**Dependencies:**
+
+**Setup:**
+
+## Reproducing results
 
 
 
