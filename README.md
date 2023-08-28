@@ -26,12 +26,12 @@ This research investigates machine learning (ML) methodologies for predicting fu
 **Dependencies**
 <div align="justify">
 Python: All code in this repository was developed and tested using Python that comes with Google Colab (Pro+) as of August 2023.
-While specific version numbers might vary, it's generally aligned with Python 3.10.12.
+<br> While specific version numbers might vary, it's generally aligned with Python 3.10.12.
 </div>
 <br>
 <div align="justify">
 Libraries: All required libraries and dependencies are installed directly within the Jupyter notebooks using pip install commands.
-These commands are included at the beginning of each notebook, ensuring all necessary packages are available for successful execution.
+<br>These commands are included at the beginning of each notebook, ensuring all necessary packages are available for successful execution.
 </div>
 <br>
 
