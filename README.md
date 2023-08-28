@@ -1,4 +1,13 @@
-# Master's Thesis
+# Encoding financial time series as images – Application of image classification to predict stock price directions of the S&P 500 Index
+---
+
+**Type:** Master's Thesis
+
+**Author:** Mirsad Sukilovic
+
+**1st Examiner:** Prof. Dr. Lessmann
+
+**2nd Examiner:** Prof. Dr. Fabian
 
 This repository contains the code implemented in the course of my master's thesis "Encoding financial time series as images – Application of image classification to predict stock price directions of the S&P 500 Index". For a more detailed explanation of the concepts and methodologies used, please refer to the thesis paper.
 
